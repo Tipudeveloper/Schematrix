@@ -5,6 +5,7 @@ local arduino = require("src/arduino")
 
 --- Runs once at the start, initializes window and modules
 function love.load()
+    print("loaded")
     love.window.setTitle("Schematrix desktop")
     arduino.load()           -- Load Arduino image and set initial position
 
