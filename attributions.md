@@ -1,0 +1,1 @@
+PhilippHenkel: https://upload.wikimedia.org/wikipedia/commons/7/74/ArduinoUno.svg: src/assets/ArduinoUno.png
