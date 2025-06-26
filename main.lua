@@ -1,3 +1,4 @@
+-- this project use the Gnu general public license 3.0
 -- Import modules from src directory
 local drag = require("src/drag")
 local dock = require("src/dock")
